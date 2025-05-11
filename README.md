@@ -29,7 +29,7 @@ The dataset used in this project is the **Adult Income Dataset**, sourced from a
 - `native-country`: Country of origin
 - `income`: Target variable (`<=50K` or `>50K`)
 
-#Team members:
+### Team members:
 
 | Name                | Registration No |          Email                 |
 |---------------------|-----------------|--------------------------------|
